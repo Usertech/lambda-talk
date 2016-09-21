@@ -119,13 +119,13 @@ def lambda_handler(event, context):
 
 ### Hello world ukázka - Konfigurace
 
-![](http://new.tinygrab.com/75723fac28d8a7f8f39c17daa4a5b2c73422840d03.png)
+![](https://raw.githubusercontent.com/Usertech/lambda-talk/master/img/config.png)
 
 --
 
 ### Hello world ukázka - Konfigurace triggeru
 
-![](http://new.tinygrab.com/75723fac2879bc10d14d532330ba79700568fb10a4.png)
+![](https://raw.githubusercontent.com/Usertech/lambda-talk/master/img/trigger.png)
 
 --
 
